@@ -16,13 +16,12 @@
 | 🪨 [**David & Goliath Stone**](Addendum%20to%20Unitary%20Loop%20Engine%20v8%20The%20David%20and%20Goliath%20Stone%20Throw.pdf) | Supplemental logic on the 0.49 propulsion mechanics. |
 
 ---
-
 ## **The Discovery**
 The **Unitary Loop** replaces "Ghost Variables" (Dark Matter/Energy) with a single mechanical constant: **Universal Drag ($H$)**. 
 
 ### **The 0.49 Constant**
 This is the mechanical "governor" of the universe. It explains why $c$ is a terminal velocity. In a pulsing "Living Sector," motion is restricted by the viscosity of the medium itself.
-
+---
 ## **Empirical Evidence**
 ### **The Oh-My-God Particle**
 The highest-energy cosmic ray ever detected. Under the Unitary Loop, its energy is not an anomaly, but a demonstration of the **0.49 Lock**—the terminal velocity of the Living Sector.
