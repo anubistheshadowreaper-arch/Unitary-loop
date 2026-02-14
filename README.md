@@ -4,10 +4,13 @@
 
 | 🛠 **Command Center** | 📑 **Project Intelligence** |
 | :--- | :--- |
-| 📄 [**The Core Paper**](./Papers/Vindicating_the_Blunder.md) | Resolution of the Cosmological Constant ($\Lambda$). |
-| 🌌 [**Dark Matter Identity**](./Papers/Mechanical_Identity.md) | Replacing "Missing Mass" with Universal Drag ($H$). |
-| ⚙️ [**The V8 Engine**](./Engine/unitary_engine.py) | Open Source simulation of the 0.49 Lock. |
-| 📊 [**Hardware Evidence**](#empirical-evidence) | Oh-My-God Particle & GD-1 Stream Analysis. |
+| 📄 [**Vindicating the Blunder**](Vindicating%20the%20Blunder.pdf) | The primary resolution of Einstein's 1917 intuition. |
+| 🌌 [**Dark Matter Identity**](Claiming%20Dark%20matter.pdf) | Reclassifying "Missing Mass" as Universal Drag ($H$). |
+| ⚙️ [**V8 Student Guide**](Instruction%20guide%20to%20Unitary%20loop%20V8%20Engine%20(Students).pdf) | Instructions for the Open Source V8 Engine. |
+| 📊 [**0.49 Lock Validation**](Statistical%20Validation%20of%20the%200.49%20Universal%20Drag%20Lock.pdf) | Statistical proof of the mechanical restriction. |
+| 📚 [**Volume III: Framework**](Volume%20III%20The%20Unitary%20Loop%20Framework%20v8.pdf) | The comprehensive Unitary Loop v8 documentation. |
+| ⚡ [**Real-Time Validation**](Technical%20Addendum%20Real-Time%20Validation%20of%20the%20Unitary%20Loop.pdf) | Technical addendum for active framework testing. |
+| 🪨 [**David & Goliath Stone**](Addendum%20to%20Unitary%20Loop%20Engine%20v8%20The%20David%20and%20Goliath%20Stone%20Throw.pdf) | Supplemental logic on the 0.49 propulsion mechanics. |
 
 ---
 
