@@ -13,9 +13,6 @@
 | ⚡ [**Real-Time Validation**](Technical%20Addendum%20Real-Time%20Validation%20of%20the%20Unitary%20Loop.pdf) | Active framework testing. |
 | 🪨 [**David & Goliath**](Addendum%20to%20Unitary%20Loop%20Engine%20v8%20The%20David%20and%20Goliath%20Stone%20Throw.pdf) | 0.49 propulsion mechanics. |
 | 📊 [**Hardware Evidence**](#empirical-evidence) | Oh-My-God Particle & GD-1 Stream Analysis. |
-
----
-
 ## **The Discovery**
 The **Unitary Loop** replaces "Ghost Variables" (Dark Matter/Energy) with a single mechanical constant: **Universal Drag ($H$)**.
 
