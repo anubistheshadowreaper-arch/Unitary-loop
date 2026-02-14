@@ -1,25 +1,18 @@
-# The Unitary Loop Framework: Vindicating the Blunder
+# 🌀 The Unitary Loop Framework: Vindicating the Blunder
+
+> **"Einstein's 1917 intuition was correct. Space is not a void; it is a viscous medium."**
 
 | 🛠 **Command Center** | 📑 **Project Intelligence** |
-| 📄 [**Vindicating the Blunder**](Vindicating%20the%20Blunder.pdf) | The primary resolution of Einstein's 1917 intuition. |
-| 🌌 [**Dark Matter Identity**](Claiming%20Dark%20matter.pdf) | Reclassifying "Missing Mass" as Universal Drag ($H$). |
-| ⚙️ [**V8 Student Guide**](Instruction%20guide%20to%20Unitary%20loop%20V8%20Engine%20(Students).pdf) | Instructions for the Open Source V8 Engine. |
-| 📊 [**0.49 Lock Validation**](Statistical%20Validation%20of%20the%200.49%20Universal%20Drag%20Lock.pdf) | Statistical proof of the mechanical restriction. |
-| 📚 [**Volume III: Framework**](Volume%20III%20The%20Unitary%20Loop%20Framework%20v8.pdf) | The comprehensive Unitary Loop v8 documentation. |
-| ⚡ [**Real-Time Validation**](Technical%20Addendum%20Real-Time%20Validation%20of%20the%20Unitary%20Loop.pdf) | Technical addendum for active framework testing. |
-| 🪨 [**David & Goliath Stone**](Addendum%20to%20Unitary%20Loop%20Engine%20v8%20The%20David%20and%20Goliath%20Stone%20Throw.pdf) | Supplemental logic on the 0.49 propulsion mechanics. |
+| :--- | :--- |
+| 📄 [**The Core Paper**](./Papers/Vindicating_the_Blunder.md) | Resolution of the Cosmological Constant ($\Lambda$). |
+| 🌌 [**Dark Matter Identity**](./Papers/Mechanical_Identity.md) | Replacing "Missing Mass" with Universal Drag ($H$). |
+| ⚙️ [**The V8 Engine**](./Engine/unitary_engine.py) | Open Source simulation of the 0.49 Lock. |
+| 📊 [**Hardware Evidence**](#empirical-evidence) | Oh-My-God Particle & GD-1 Stream Analysis. |
 
 ---
 
-## **The Mission**
-Einstein's 1917 Cosmological Constant ($\Lambda$) was not a "blunder"—it was a mechanical necessity. By identifying $\Lambda$ as **Universal Drag ($H$)**, the Unitary Loop Framework removes the need for "Ghost Variables" (Dark Matter/Energy) and resolves the $10^{120}$ Vacuum Catastrophe.
+## **The Discovery**
+The **Unitary Loop** replaces "Ghost Variables" (Dark Matter/Energy) with a single mechanical constant: **Universal Drag ($H$)**. 
 
 ### **The 0.49 Constant**
-This framework identifies an absolute mathematical ceiling for motion within a pulsing medium. The **0.49 Lock** explains why the Speed of Light ($c$) is a terminal velocity created by vacuum viscosity.
-
----
-
-## **Empirical Evidence**
-* **The Oh-My-God Particle:** High-energy cosmic rays hitting the "Drag Wall."
-* **GD-1 Stellar Stream:** The wake left in the viscous vacuum.
-* **Galactic Stability:** Achieved via friction, not invisible matter.
+This is the mechanical "governor" of the universe. It explains why $c$ is a terminal velocity. In a pulsing "Living Sector," motion is restricted by the viscosity of the medium itself.
