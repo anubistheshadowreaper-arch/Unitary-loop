@@ -4,8 +4,6 @@
 
 | 🛠 **Command Center** | 📑 **Project Intelligence** |
 | :--- | :--- |
-| 🛠 **Command Center** | 📑 **Project Intelligence** |
-| :--- | :--- |
 | 📄 [**The Core Paper**](Vindicating%20the%20Blunder.pdf) | Resolution of Einstein's 1917 intuition. |
 | ⚙️ [**The V8 Engine**](unitary_engine.py) | Open Source simulation of the 0.49 Lock. |
 | 📊 [**Hardware Evidence**](#empirical-evidence) | Oh-My-God Particle & GD-1 Stream Analysis. |
