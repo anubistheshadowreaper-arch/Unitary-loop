@@ -4,6 +4,11 @@
 
 | 🛠 **Command Center** | 📑 **Project Intelligence** |
 | :--- | :--- |
+| 🛠 **Command Center** | 📑 **Project Intelligence** |
+| :--- | :--- |
+| 📄 [**The Core Paper**](Vindicating%20the%20Blunder.pdf) | Resolution of Einstein's 1917 intuition. |
+| ⚙️ [**The V8 Engine**](unitary_engine.py) | Open Source simulation of the 0.49 Lock. |
+| 📊 [**Hardware Evidence**](#empirical-evidence) | Oh-My-God Particle & GD-1 Stream Analysis. |
 | 📄 [**Vindicating the Blunder**](Vindicating%20the%20Blunder.pdf) | The primary resolution of Einstein's 1917 intuition. |
 | 🌌 [**Dark Matter Identity**](Claiming%20Dark%20matter.pdf) | Reclassifying "Missing Mass" as Universal Drag ($H$). |
 | ⚙️ [**V8 Student Guide**](Instruction%20guide%20to%20Unitary%20loop%20V8%20Engine%20(Students).pdf) | Instructions for the Open Source V8 Engine. |
