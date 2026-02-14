@@ -1,5 +1,4 @@
 # 🌀 The Unitary Loop Framework: Vindicating the Blunder
-Einstein's 1917 intuition was correct. Space is not a void; it is a viscous medium.
 | 🛠 **Command Center** | 📑 **Project Intelligence** |
 | :--- | :--- |
 | 📄 [**The Core Paper**](Vindicating%20the%20Blunder.pdf) | Resolution of Einstein's 1917 intuition. |
